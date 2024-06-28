@@ -2,6 +2,11 @@
 
 This repository contains the code used for my Bachelor Assignment. It is largely based on [[1]](#1).
 
+The files used for the results are seperated per game. They are found in PrisonersDilemma.nb, StagHunt.nb and Snowdrift.nb.
+
+ExactAverageReward.nb contains the approach of computing the average reward exactly instead of estimating it. It is applied in the prisoner's dilemma, where the resulting transition conditions where found to be the same as in PrisonersDilemma.nb.
+
+
 ## References
 <a id="1">[1]</a> 
 Janusz M. Meylahn and Lars Janssen.
