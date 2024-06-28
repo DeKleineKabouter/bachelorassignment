@@ -1,6 +1,6 @@
 # Average-reward reinforcement learning in two-player two-action games
 
-This repository contains the code used for my Bachelor Assignment. It is largely based on the code used in [[1]](#1).
+This repository contains the Mathematica code used for my Bachelor Assignment. It is largely based on the code used in [[1]](#1).
 
 The files used for the results are seperated per game. They are found in PrisonersDilemma.nb, StagHunt.nb and Snowdrift.nb.
 
